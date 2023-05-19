@@ -11,20 +11,6 @@ API RESTful
 	- [x] Fastify (Framework)
 	- [x] ESLint
 	- [x] Prisma + SQLite
-
-- [ ] Front-end
-	- [ ] React + Next.js
-	- [ ] Conceitos
-		- [ ] Componentes
-		- [ ] Propriedades
-		- [ ] Roteamentos
-	- [ ] TailwindCSS
-	- [ ] ESLint + Prettier Tailwind
-
-- [ ] Mobile
-	- [ ] Expo
-	- [ ] NativeWind
-	- [ ] ESLint + Prettier Tailwind
 	
 ## Bibliotecas e comandos utilizados
 ```sh
