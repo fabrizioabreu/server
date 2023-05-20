@@ -50,4 +50,12 @@ npm i zod
 
 # Tecnica de segurança para determinar quais URLs vão poder acessar nossa API
 npm i @fastify/cors
+
+# Para o prisma conseguir ler as variáveis de ambiente.
+npm i dotenv -D
+
+# Fazer requisições Http
+npm i axios
+
+npm i @fastify/jwt
 ```
