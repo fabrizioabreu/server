@@ -16,6 +16,17 @@
 		- [x] Atualização
 	- [x] Plugin de CORS
 
+## D-3 Autenticação & Upload 1/2
+- [x] Back-end
+	- [x] Rota de autenticação
+	- [x] Criação de token JWT
+	- [x] Rotas autenticadas
+
+## D-4 Upload & Nova memória
+- [x] Back-end
+	- [x] Rota de upload de arquivo
+	- [x] Servindo arquivos estáticos
+
 ## Getting Started
 ```bash
 npm run dev
@@ -58,4 +69,11 @@ npm i dotenv -D
 npm i axios
 
 npm i @fastify/jwt
+
+# Upload de arquivo/vídeo
+# https://github.com/fastify/fastify-multipart
+npm i @fastify/multipart
+
+# Faz com que uma pasta do back-end fique pública
+npm i @fastify/static
 ```
